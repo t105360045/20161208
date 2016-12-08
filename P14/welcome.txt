@@ -1,0 +1,3 @@
+a simple test.
+for create a txt.
+read and write.
